@@ -4,7 +4,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #ecf0e7;
+  background-color: #80f0b8;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 .container {
@@ -13,8 +17,118 @@ body {
 }
 
 .main-container {
+  width: 800px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header-container {
+  display: grid;
+  grid-template-areas: 
+    "left right";
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100px;
+  width: 800px;
+  background-color: #fff3c4;
   border: solid;
   border-width: 2px;
   border-color: black;
+}
+
+.header-title {
+  font-size: 55px;
+  grid-area: left;
+  width: 680px;
+  display: flex;
+  justify-content: center;
+}
+
+.header-status {
+  grid-area: right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 120px;
+  -webkit-user-select: none; /* Chrome/Safari */ 
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+
+  /* The rule below is not implemented in browsers yet */
+  -o-user-select: none;
+
+  /* The rule below is implemented in most browsers by now */
+  user-select: none;
+}
+
+.status-select {
+  border: solid;
+  border-width: 1px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  width: 100px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.status-select:hover {
+  cursor: pointer;
+}
+
+.status-select-visible {
+
+}
+
+.status-select-hidden {
+
+}
+
+.body-container {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+}
+
+.streamer {
+  margin-top: 4px;
+  display: grid;
+  grid-template-areas: 
+    "logo-name status"
+    "logo-name status";
+  height: 100px;
+  width: 800px;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  border: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+.stream-logo-name {
+  grid-area: logo-name;
+  width: 150px;
+}
+
+.stream-status-section {
+  grid-area: status;
+  width: 550px;
+  display: flex;
+  justify-content: left;
+}
+
+.logo {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.streamer-online {
+  background-color: #80b8f0;
+}
+
+.streamer-offline {
   background-color: lightcoral;
+  font-style: italic;
 }

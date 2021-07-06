@@ -1,0 +1,87 @@
+{
+    "api": [
+    [
+        {
+        "broadcaster_language": "en",
+        "broadcaster_login": "sykkuno",
+        "display_name": "Sykkuno",
+        "game_id": "509658",
+        "game_name": "Just Chatting",
+        "id": "26154978",
+        "is_live": true,
+        "tag_ids": [
+            "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+            "6606e54c-f92d-40f6-8257-74977889ccdd"
+        ],
+        "thumbnail_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/sykkuno-profile_image-6ab1e70e07e29e9b-300x300.jpeg",
+        "title": "AMIGOPS",
+        "started_at": "2021-07-03T21:49:16Z"
+        }
+    ],
+    [
+        {
+        "broadcaster_language": "en",
+        "broadcaster_login": "lunaoni",
+        "display_name": "LunaOni",
+        "game_id": "32982",
+        "game_name": "Grand Theft Auto V",
+        "id": "50127647",
+        "is_live": false,
+        "tag_ids": [],
+        "thumbnail_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74758d11-0a8d-4b02-92cc-b2c61ba2d600-profile_image-300x300.png",
+        "title": "NoPixel WL | Claire Everly | Short stream before 5g, Another stream afterwords! woop\n!nordvpn Discord.gg/LunaOni @LunaOni_",
+        "started_at": ""
+        }
+    ],
+    [
+        {
+        "broadcaster_language": "en",
+        "broadcaster_login": "ludwig",
+        "display_name": "ludwig",
+        "game_id": "509658",
+        "game_name": "Just Chatting",
+        "id": "40934651",
+        "is_live": false,
+        "tag_ids": [],
+        "thumbnail_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bde8aaf5-35d4-4503-9797-842401da900f-profile_image-300x300.png",
+        "title": "playing games with friends :)",
+        "started_at": ""
+        }
+    ],
+    [
+        {
+        "broadcaster_language": "en",
+        "broadcaster_login": "lilypichu",
+        "display_name": "lilypichu",
+        "game_id": "511181708",
+        "game_name": "Dread Hunger",
+        "id": "31106024",
+        "is_live": true,
+        "tag_ids": [
+            "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+        ],
+        "thumbnail_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/lilypichu-profile_image-9a1ba797a9721716-300x300.png",
+        "title": "dread hunger w/ mina crop evon rae tost syk lud",
+        "started_at": "2021-07-03T21:13:30Z"
+        }
+    ],
+    [
+        {
+        "broadcaster_language": "en",
+        "broadcaster_login": "xqcow",
+        "display_name": "xQcOW",
+        "game_id": "32982",
+        "game_name": "Grand Theft Auto V",
+        "id": "71092938",
+        "is_live": true,
+        "tag_ids": [
+            "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+            "6606e54c-f92d-40f6-8257-74977889ccdd"
+        ],
+        "thumbnail_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqcow-profile_image-9298dca608632101-300x300.jpeg",
+        "title": "[NoPixel Public] GAMING GOD ADULT PRETENDER ROOKIE SMOKES EVERY NONGAMERLORD NOOB TO THE GROUND & WINS AT RP (PUZZLE END 2DAY)",
+        "started_at": "2021-07-03T18:32:56Z"
+        }
+    ]
+    ]
+}
